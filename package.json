@@ -1,0 +1,29 @@
+{
+  "name": "catapi",
+  "version": "1.0.0",
+  "description": "A API wrapper for catAPI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThatCopy/catapi-node-wrapper.git"
+  },
+  "keywords": [
+    "cat",
+    "api",
+    "wrapper",
+    "catapi",
+    "cats"
+  ],
+  "author": "ThatCopy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ThatCopy/catapi-node-wrapper/issues"
+  },
+  "homepage": "https://github.com/ThatCopy/catapi-node-wrapper#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
